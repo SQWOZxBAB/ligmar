@@ -3,7 +3,7 @@ from datetime import datetime
 
 # Глобальные переменные
 stop_script = False
-cmd_pressed = False
+ctrl_pressed = False
 shift_pressed = False
 resp_coords = None
 
